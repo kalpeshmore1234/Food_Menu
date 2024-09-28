@@ -1,4 +1,4 @@
-import Title from "./title";
+import Title from "./Title";
 import menu from './data'
 import { useState } from "react";
 import Menu from "./Menu";
